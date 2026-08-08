@@ -1,14 +1,2 @@
 ﻿# juegoPythonl
-Programa básico de "Hola Mundo" en Python, creado como ejercicio de práctica en clase. Es mi primer proyecto publicado en GitHub.
-Descripción
-Programa básico de "Hola Mundo" en Python, creado como ejercicio de práctica en clase. Es mi primer proyecto publicado en GitHub.
 
-Lenguaje utilizado
-Python 3
-
-Cómo ejecutar el proyecto
-Clona el repositorio: git clone https://github.com/dannavcastro-prog/mi-primer-repo.git
-Entra a la carpeta: cd mi-primer-repo
-Ejecuta el programa: python hola_mundo.py
-Autor
-diego leon  — dannavcastro-prog
